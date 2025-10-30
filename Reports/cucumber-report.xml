@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="Cucumber" time="276.211" tests="3" skipped="0" failures="0" errors="0">
+<testcase classname="Testing the POM with BDD here." name="Data driven testing with BDD implementing POM with page Factory. - Example #1.1" time="91.096">
+<system-out><![CDATA[
+Given I navigated to main page "http://demo.guru99.com/test/newtours/"......passed
+When I inserted the "mercury" and "mercury".................................passed
+When After I have clicked signin button.....................................passed
+Then It got navigated to the home page "Login Successfully".................passed
+]]></system-out>
+</testcase>
+<testcase classname="Testing the POM with BDD here." name="Data driven testing with BDD implementing POM with page Factory. - Example #1.2" time="90.619">
+<system-out><![CDATA[
+Given I navigated to main page "http://demo.guru99.com/test/newtours/"......passed
+When I inserted the "Ravindra" and "Jadeja".................................passed
+When After I have clicked signin button.....................................passed
+Then It got navigated to the home page "Login Successfully".................passed
+]]></system-out>
+</testcase>
+<testcase classname="Testing the POM with BDD here." name="Data driven testing with BDD implementing POM with page Factory. - Example #1.3" time="93.544">
+<system-out><![CDATA[
+Given I navigated to main page "http://demo.guru99.com/test/newtours/"......passed
+When I inserted the "Ronaldo" and "Cr7".....................................passed
+When After I have clicked signin button.....................................passed
+Then It got navigated to the home page "Enter your userName and password correct".passed
+]]></system-out>
+</testcase>
+</testsuite>
